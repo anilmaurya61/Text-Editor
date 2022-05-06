@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anilmaurya61/Text-Editor.git/static/css/main.073c9b0a.css",
+    "main.js": "/anilmaurya61/Text-Editor.git/static/js/main.2974ce16.js",
+    "static/js/787.8a9b3ea7.chunk.js": "/anilmaurya61/Text-Editor.git/static/js/787.8a9b3ea7.chunk.js",
+    "index.html": "/anilmaurya61/Text-Editor.git/index.html",
+    "main.073c9b0a.css.map": "/anilmaurya61/Text-Editor.git/static/css/main.073c9b0a.css.map",
+    "main.2974ce16.js.map": "/anilmaurya61/Text-Editor.git/static/js/main.2974ce16.js.map",
+    "787.8a9b3ea7.chunk.js.map": "/anilmaurya61/Text-Editor.git/static/js/787.8a9b3ea7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2974ce16.js"
+  ]
+}
